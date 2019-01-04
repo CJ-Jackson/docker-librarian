@@ -1,6 +1,6 @@
 # Chef Librarian in Docker container.
 
-## Installattion
+## Installation
 
 Note: You do not need to clone this repo to install.
 
